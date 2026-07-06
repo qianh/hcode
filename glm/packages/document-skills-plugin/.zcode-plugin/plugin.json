@@ -1,0 +1,8 @@
+{
+  "name": "document-skills",
+  "version": "0.1.0",
+  "description": "ZCode 内置的 DOCX 与 PDF 文档生产技能。",
+  "author": { "name": "Z.ai" },
+  "license": "Proprietary",
+  "skills": "skills"
+}

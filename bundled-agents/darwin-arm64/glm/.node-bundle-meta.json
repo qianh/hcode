@@ -1,0 +1,6 @@
+{
+  "runtime": "electron-node",
+  "entry": "zcode.cjs",
+  "platform": "darwin-arm64",
+  "source": "apps/zcode-cli/packages/cli/dist/zcode.cjs"
+}

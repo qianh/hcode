@@ -1,0 +1,4 @@
+provider: generic
+useMultipleRangeRequest: false
+url: https://cdn-zcode.z.ai/zcode/electron/releases/update/mac/arm64/
+updaterCacheDirName: '@zcodedesktop-updater'

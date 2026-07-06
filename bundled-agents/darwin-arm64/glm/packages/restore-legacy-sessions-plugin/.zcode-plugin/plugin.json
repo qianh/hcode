@@ -1,0 +1,9 @@
+{
+  "name": "restore-legacy-sessions",
+  "version": "0.1.0",
+  "description": "选择并恢复旧版 ACP-era ZCode session 到新 ZCode 任务与会话库。",
+  "author": { "name": "Z.ai" },
+  "license": "MIT",
+  "skills": "skills",
+  "commands": "commands"
+}

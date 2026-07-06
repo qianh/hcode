@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "@zcode/restore-legacy-sessions-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "作为官方 ZCode 插件发布的旧版 ZCode session 恢复技能。"
+}
